@@ -49,7 +49,7 @@ class StopWorkerCommand extends ContainerAwareCommand
                         $output->writeln($worker->getId());
                     }
                 } else {
-                    $output->writeln('<error>There are no running workers to stop.</error>');
+                    $output->writeln('<error>There are no running workers.</error>');
                 }
 
                 return 1;
