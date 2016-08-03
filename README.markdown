@@ -3,6 +3,11 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mpclarkson/resque-bundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mpclarkson/resque-bundle/?branch=master)
 [![Build Status](https://travis-ci.org/mpclarkson/resque-bundle.svg?branch=master)](https://travis-ci.org/mpclarkson/resque-bundle)
 
+**THIS REPO HAS BEEN MOVED TO ITS OWN GITHUB ORGANISATION, THE CODE HERE IS FOR THOSE THAT DEPEND ON IT BUT NEW CODE, BUG FIXES, PULL REQUESTS ETC SHOULD BE MADE IN THE NEW REPO HERE: https://github.com/resquebundle/resque**
+
+----
+
+
 This is a fork of the BCCResqueBundle, as it is no longer being maintained. There are a lot of outstanding issues, pull requests and bugs that need to be fixed. 
 **Contributions are welcome - I don't have the bandwidth to maintain this alone.**
 
